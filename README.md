@@ -1,6 +1,6 @@
-#ATM operations Spring Boot API in hexagonal architecture
+#ATM Spring Boot API arquitetura hexagonal
 
-#Project Anatomy
+#Anatomia do projeto
 
 In Adapters (Web)
 - BankAccountController
@@ -23,7 +23,7 @@ Domain
 
 Java 11/Spring Boot 2.5.2/Lombok/H2 Database
 
-References: 
+Referências: 
 
 https://jivimberg.io/blog/2020/02/01/hexagonal-architecture-on-spring-boot/
 
