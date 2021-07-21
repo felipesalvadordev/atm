@@ -10,11 +10,14 @@ import br.com.salvador.atm.application.services.exceptions.InsufficientFundsExce
 import br.com.salvador.atm.application.services.exceptions.ThresholdExceededException;
 import org.springframework.stereotype.Service;
 
+import javax.transaction.Transactional;
 import java.math.BigInteger;
 import java.util.NoSuchElementException;
 import java.util.Optional;
 
+
 @Service
+@Transactional
 public class BankAccountService implements DepositUseCase, WithdrawUseCase, GetAccountBalanceQuery {
 
     private final LoadAccountPort loadAccountPort;
