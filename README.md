@@ -23,6 +23,9 @@ Domain
 
 Java 11/Spring Boot 2.5.2/Lombok/H2 Database
 
+#Testes
+Junit/MockMvc/MockBean/WebMvcTest
+
 Referências: 
 
 https://jivimberg.io/blog/2020/02/01/hexagonal-architecture-on-spring-boot/
