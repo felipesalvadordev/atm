@@ -23,7 +23,8 @@ Domain
 
 Java 11/Spring Boot 2.5.2/Lombok/H2 Database
 
-#Testes
+#Testes de unidade/integração
+
 Junit/MockMvc/MockBean/WebMvcTest
 
 Referências: 
