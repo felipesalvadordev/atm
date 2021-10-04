@@ -21,7 +21,7 @@ Out Port
 Domain
 - BankAccount
 
-Java 11/Spring Boot 2.5.2/Lombok/H2 Database
+Java 11/Spring Boot 2.5.2/Lombok/H2 Database/Swagger
 
 #Testes de unidade/integração
 
